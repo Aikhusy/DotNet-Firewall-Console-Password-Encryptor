@@ -1,0 +1,14 @@
+C:\Users\HAPE\Desktop\encryptor\bin\Debug\net8.0\Encryptor.exe
+C:\Users\HAPE\Desktop\encryptor\bin\Debug\net8.0\Encryptor.deps.json
+C:\Users\HAPE\Desktop\encryptor\bin\Debug\net8.0\Encryptor.runtimeconfig.json
+C:\Users\HAPE\Desktop\encryptor\bin\Debug\net8.0\Encryptor.dll
+C:\Users\HAPE\Desktop\encryptor\bin\Debug\net8.0\Encryptor.pdb
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.AssemblyInfoInputs.cache
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.AssemblyInfo.cs
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.dll
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\refint\Encryptor.dll
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.pdb
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\Encryptor.genruntimeconfig.cache
+C:\Users\HAPE\Desktop\encryptor\obj\Debug\net8.0\ref\Encryptor.dll
